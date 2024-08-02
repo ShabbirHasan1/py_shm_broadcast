@@ -1,0 +1,20 @@
+# python generated files
+__pycache__/
+**/__pycache__/
+**/**/__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+.pytest_cache
+.ruff_cache
+
+# vscode
+.vscode
+
+# mypy
+.mypy_cache

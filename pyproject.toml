@@ -1,0 +1,37 @@
+[project]
+name = "py-shm-broadcast"
+version = "0.1.0"
+description = "A message queue that uses shared memory to communicate between processes"
+authors = [
+  { name = "Shabbir Hasan", email = "68828793+ShabbirHasan1@users.noreply.github.com" },
+]
+license = { file = "LICENSE" }
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+]
+# url = "https://github.com/ShabbirHasan1/py_shm_broadcast"
+dependencies = ["torch>=2.4.0", "pyzmq>=26.0.3", "dill>=0.3.8", "numpy>=2.0.1"]
+readme = "README.md"
+requires-python = ">= 3.12"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = ["pytest>=8.3.2"]
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/shm_broadcast"]

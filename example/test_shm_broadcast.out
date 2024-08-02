@@ -1,0 +1,290 @@
+./test_shm_broadcast.sh
+
+================================================================================
+
+Broadcasting 1.00MB (1024 bytes * 1024 bytes) of data
+Consumer - 00 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Total time elapsed: 28340083.000 ns, 28340.083 µs, 28.340 ms, 0.028 s
+Latency: 27675.862 ns, 27.676 µs, 0.028 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 1.00MB (1024 bytes * 1024 bytes) of data
+Consumer - 03 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 00 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 01 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 02 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Total time elapsed: 41476708.000 ns, 41476.708 µs, 41.477 ms, 0.041 s
+Latency: 40504.598 ns, 40.505 µs, 0.041 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 1.00MB (1024 bytes * 1024 bytes) of data
+Consumer - 07 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 02 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 03 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 06 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 05 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 04 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 01 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Consumer - 00 - Receiving 1.00MB (1024 bytes * 1024 bytes) brodcasted data
+Total time elapsed: 65066541.000 ns, 65066.541 µs, 65.067 ms, 0.065 s
+Latency: 63541.544 ns, 63.542 µs, 0.064 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 8.00MB (1024 bytes * 8192 bytes) of data
+Consumer - 00 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Total time elapsed: 169401792.000 ns, 169401.792 µs, 169.402 ms, 0.169 s
+Latency: 20678.930 ns, 20.679 µs, 0.021 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 8.00MB (1024 bytes * 8192 bytes) of data
+Consumer - 01 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 00 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 03 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 02 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Total time elapsed: 288519416.000 ns, 288519.416 µs, 288.519 ms, 0.289 s
+Latency: 35219.655 ns, 35.220 µs, 0.035 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 8.00MB (1024 bytes * 8192 bytes) of data
+Consumer - 01 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 06 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 00 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 07 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 03 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 04 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 02 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Consumer - 05 - Receiving 8.00MB (1024 bytes * 8192 bytes) brodcasted data
+Total time elapsed: 481487167.000 ns, 481487.167 µs, 481.487 ms, 0.481 s
+Latency: 58775.289 ns, 58.775 µs, 0.059 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 16.00MB (1024 bytes * 16384 bytes) of data
+Consumer - 00 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Total time elapsed: 338375292.000 ns, 338375.292 µs, 338.375 ms, 0.338 s
+Latency: 20652.789 ns, 20.653 µs, 0.021 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 16.00MB (1024 bytes * 16384 bytes) of data
+Consumer - 03 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 01 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 02 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 00 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Total time elapsed: 574086333.000 ns, 574086.333 µs, 574.086 ms, 0.574 s
+Latency: 35039.449 ns, 35.039 µs, 0.035 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 16.00MB (1024 bytes * 16384 bytes) of data
+Consumer - 07 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 00 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 01 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 04 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 06 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 02 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 05 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Consumer - 03 - Receiving 16.00MB (1024 bytes * 16384 bytes) brodcasted data
+Total time elapsed: 962845958.000 ns, 962845.958 µs, 962.846 ms, 0.963 s
+Latency: 58767.453 ns, 58.767 µs, 0.059 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 32.00MB (1024 bytes * 32768 bytes) of data
+Consumer - 00 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Total time elapsed: 668936958.000 ns, 668936.958 µs, 668.937 ms, 0.669 s
+Latency: 20414.336 ns, 20.414 µs, 0.020 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 32.00MB (1024 bytes * 32768 bytes) of data
+Consumer - 01 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 00 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 03 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 02 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Total time elapsed: 1146461625.000 ns, 1146461.625 µs, 1146.462 ms, 1.146 s
+Latency: 34987.232 ns, 34.987 µs, 0.035 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 32.00MB (1024 bytes * 32768 bytes) of data
+Consumer - 02 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 00 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 06 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 04 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 03 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 01 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 05 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Consumer - 07 - Receiving 32.00MB (1024 bytes * 32768 bytes) brodcasted data
+Total time elapsed: 1910254042.000 ns, 1910254.042 µs, 1910.254 ms, 1.910 s
+Latency: 58296.327 ns, 58.296 µs, 0.058 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 64.00MB (1024 bytes * 65536 bytes) of data
+Consumer - 00 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Total time elapsed: 1318264958.000 ns, 1318264.958 µs, 1318.265 ms, 1.318 s
+Latency: 20115.127 ns, 20.115 µs, 0.020 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 64.00MB (1024 bytes * 65536 bytes) of data
+Consumer - 02 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 01 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 03 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 00 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Total time elapsed: 2286352750.000 ns, 2286352.750 µs, 2286.353 ms, 2.286 s
+Latency: 34886.974 ns, 34.887 µs, 0.035 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 64.00MB (1024 bytes * 65536 bytes) of data
+Consumer - 07 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 06 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 05 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 03 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 01 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 04 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 02 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Consumer - 00 - Receiving 64.00MB (1024 bytes * 65536 bytes) brodcasted data
+Total time elapsed: 3839107375.000 ns, 3839107.375 µs, 3839.107 ms, 3.839 s
+Latency: 58580.130 ns, 58.580 µs, 0.059 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 128.00MB (1024 bytes * 131072 bytes) of data
+Consumer - 00 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Total time elapsed: 2637284667.000 ns, 2637284.667 µs, 2637.285 ms, 2.637 s
+Latency: 20120.885 ns, 20.121 µs, 0.020 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 128.00MB (1024 bytes * 131072 bytes) of data
+Consumer - 03 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 00 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 02 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 01 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Total time elapsed: 4556056375.000 ns, 4556056.375 µs, 4556.056 ms, 4.556 s
+Latency: 34759.952 ns, 34.760 µs, 0.035 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 128.00MB (1024 bytes * 131072 bytes) of data
+Consumer - 04 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 03 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 07 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 02 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 01 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 06 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 05 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Consumer - 00 - Receiving 128.00MB (1024 bytes * 131072 bytes) brodcasted data
+Total time elapsed: 7686783375.000 ns, 7686783.375 µs, 7686.783 ms, 7.687 s
+Latency: 58645.503 ns, 58.646 µs, 0.059 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 256.00MB (1024 bytes * 262144 bytes) of data
+Consumer - 00 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Total time elapsed: 5283209708.000 ns, 5283209.708 µs, 5283.210 ms, 5.283 s
+Latency: 20153.846 ns, 20.154 µs, 0.020 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 256.00MB (1024 bytes * 262144 bytes) of data
+Consumer - 00 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 03 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 02 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 01 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Total time elapsed: 9103580584.000 ns, 9103580.584 µs, 9103.581 ms, 9.104 s
+Latency: 34727.404 ns, 34.727 µs, 0.035 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 256.00MB (1024 bytes * 262144 bytes) of data
+Consumer - 07 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 04 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 03 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 06 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 00 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 02 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 05 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Consumer - 01 - Receiving 256.00MB (1024 bytes * 262144 bytes) brodcasted data
+Total time elapsed: 15202122125.000 ns, 15202122.125 µs, 15202.122 ms, 15.202 s
+Latency: 57991.494 ns, 57.991 µs, 0.058 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 512.00MB (1024 bytes * 524288 bytes) of data
+Consumer - 00 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Total time elapsed: 10565953792.000 ns, 10565953.792 µs, 10565.954 ms, 10.566 s
+Latency: 20152.958 ns, 20.153 µs, 0.020 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 512.00MB (1024 bytes * 524288 bytes) of data
+Consumer - 03 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 00 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 01 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 02 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Total time elapsed: 18294074916.000 ns, 18294074.916 µs, 18294.075 ms, 18.294 s
+Latency: 34893.179 ns, 34.893 µs, 0.035 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 512.00MB (1024 bytes * 524288 bytes) of data
+Consumer - 07 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 00 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 06 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 01 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 05 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 02 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 04 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Consumer - 03 - Receiving 512.00MB (1024 bytes * 524288 bytes) brodcasted data
+Total time elapsed: 30483619750.000 ns, 30483619.750 µs, 30483.620 ms, 30.484 s
+Latency: 58142.890 ns, 58.143 µs, 0.058 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 1024.00MB (1024 bytes * 1048576 bytes) of data
+Consumer - 00 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Total time elapsed: 21213228958.000 ns, 21213228.958 µs, 21213.229 ms, 21.213 s
+Latency: 20230.512 ns, 20.231 µs, 0.020 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 1024.00MB (1024 bytes * 1048576 bytes) of data
+Consumer - 03 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 02 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 00 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 01 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Total time elapsed: 36175772375.000 ns, 36175772.375 µs, 36175.772 ms, 36.176 s
+Latency: 34499.905 ns, 34.500 µs, 0.034 ms, 0.000 s
+
+================================================================================
+
+Broadcasting 1024.00MB (1024 bytes * 1048576 bytes) of data
+Consumer - 06 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 05 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 02 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 01 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 04 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 00 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 07 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+Consumer - 03 - Receiving 1024.00MB (1024 bytes * 1048576 bytes) brodcasted data
+No available block found in 0.01 second.
+No available block found in 0.01 second.
+No available block found in 0.01 second.
+No available block found in 0.01 second.
+No available block found in 0.01 second.
+No available block found in 0.01 second.
+Total time elapsed: 62495583042.000 ns, 62495583.042 µs, 62495.583 ms, 62.496 s
+Latency: 59600.432 ns, 59.600 µs, 0.060 ms, 0.000 s
+
+================================================================================
+
+/8m-21.8s
