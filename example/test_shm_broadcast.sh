@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/PythonProjects/shm_broadcast/example
+cd $HOME/py_shm_broadcast/example
 source ../.venv/bin/activate
 echo "================================================================================"
 python ../tests/test_shm_broadcast.py 1 1 64
